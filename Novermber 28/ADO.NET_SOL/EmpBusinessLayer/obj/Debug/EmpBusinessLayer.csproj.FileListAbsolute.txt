@@ -1,0 +1,19 @@
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\EmpBusinessLayer.dll
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\EmpBusinessLayer.pdb
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.dll
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.pdb
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary1.dll
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary2.dll
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary1.pdb
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary2.pdb
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.csprojResolveAssemblyReference.cache
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.csprojResolveAssemblyReference.cache
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.dll
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\obj\Debug\EmpBusinessLayer.pdb
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\EmpBusinessLayer.dll
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\EmpBusinessLayer.pdb
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary1.dll
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary2.dll
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary2.pdb
+D:\Abinash Mishra\Part I   (Till Project 1)\ADO\Novermber 28\ADO.NET_SOL\EmpBusinessLayer\bin\Debug\ClassLibrary1.pdb

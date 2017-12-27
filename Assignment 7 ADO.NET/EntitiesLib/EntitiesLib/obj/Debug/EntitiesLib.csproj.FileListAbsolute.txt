@@ -1,0 +1,4 @@
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\EntitiesLib\bin\Debug\EntitiesLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\EntitiesLib\bin\Debug\EntitiesLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\EntitiesLib\obj\Debug\EntitiesLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\EntitiesLib\obj\Debug\EntitiesLib.pdb

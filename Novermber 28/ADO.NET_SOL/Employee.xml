@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE employees SYSTEM "Employee.dtd">
+
+<employees>
+<employee pid="p1">
+  <ecode>101</ecode>
+  <ename>John Lenon</ename>
+  <salary>100000</salary>
+  <deptid>001</deptid>
+</employee>
+<employee pid="p2">
+  <ecode>104</ecode>
+  <ename>Ed Sheeran</ename>
+  <salary>100000</salary>
+  <deptid>001</deptid>
+</employee>
+<employee pid="p3">
+  <ecode>102</ecode>
+  <ename>John Legend</ename>
+  <salary>100000</salary>
+  <deptid>001</deptid>
+</employee>
+</employees>

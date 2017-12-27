@@ -1,0 +1,12 @@
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookApplication.exe.config
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookApplication.exe
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookApplication.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookBLL.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\EntitiesLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookDALLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookBLL.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\EntitiesLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\bin\Debug\BookDALLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\obj\Debug\BookApplication.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\obj\Debug\BookApplication.exe
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookApplication\obj\Debug\BookApplication.pdb

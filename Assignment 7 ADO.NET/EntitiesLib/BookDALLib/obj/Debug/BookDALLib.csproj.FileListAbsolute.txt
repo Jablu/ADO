@@ -1,0 +1,7 @@
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\bin\Debug\BookDALLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\bin\Debug\BookDALLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\bin\Debug\EntitiesLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\bin\Debug\EntitiesLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\obj\Debug\BookDALLib.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\obj\Debug\BookDALLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookDALLib\obj\Debug\BookDALLib.pdb

@@ -1,0 +1,5 @@
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\AbinashMishra\ADO\Novermber 28\ADO.NET_SOL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

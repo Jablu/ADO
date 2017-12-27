@@ -1,0 +1,8 @@
+﻿
+  <!ELEMENT employees (employee*)>
+  <!ELEMENT employee (ecode,ename,salary,deptid)>
+  <!ELEMENT ecode (#PCDATA)>
+  <!ELEMENT ename (#PCDATA)>
+  <!ELEMENT salary (#PCDATA)>
+  <!ELEMENT deptid (#PCDATA)>
+  <!ATTLIST employee pid (p1|p2|p3) "p1">

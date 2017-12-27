@@ -1,0 +1,9 @@
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\bin\Debug\BookBLL.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\bin\Debug\BookBLL.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\bin\Debug\BookDALLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\bin\Debug\EntitiesLib.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\bin\Debug\BookDALLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\bin\Debug\EntitiesLib.pdb
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\obj\Debug\BookBLL.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\obj\Debug\BookBLL.dll
+D:\AbinashMishra\ADO\Assignment 7 ADO.NET\EntitiesLib\BookBLL\obj\Debug\BookBLL.pdb
