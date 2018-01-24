@@ -11,6 +11,7 @@ namespace EmployeeDALLib
 {
     public class AdoConnected
     {
+        
         SqlConnection con;
         SqlCommand cmd;
         public AdoConnected()
@@ -18,13 +19,12 @@ namespace EmployeeDALLib
             //Configure Connection String
             con = new SqlConnection();
             con.ConnectionString = @"Data Source = DHAN31\SQLEXPRESS; Initial Catalog = JAB_DB; Integrated Security = True";
-            ConfigurationManager.ConnectionString
+            
         }
 
         public void InsertEmployee(Emplyoee emp)
         {
 
-            
             //ToDo Insert Operation Using SQL
 
             cmd = new SqlCommand();
@@ -43,9 +43,6 @@ namespace EmployeeDALLib
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();
-
-
-
 
             //add things
 
